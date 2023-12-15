@@ -1,0 +1,3336 @@
+{
+    "web": [
+        {
+            "id": 1,
+            "text": "Что такое прогрессивный рендеринг?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "Что такое прогрессивный SSR?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "Что такое Progressive Web Application (PWA)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "Что такое кроссбраузерность?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "Что такое модель OSI?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "Что такое поток документа?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "Разница между адаптивным и отзывчивым дизайнами?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "Разница между Progressive Enhancement и Graceful Degradation?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "Что такое Веб-компоненты и какие технологии в них используются?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "Особенности разработки мультиязычных сайтов?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "Что такое REST?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "Что такое REST и RESTful API?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "Принципы REST-архитектуры?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "Что такое модель зрелости Ричардсона?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "Основные уровни модели зрелости Ричардсона?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "Назовите критические этапы рендеринга?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "Разница между layout, painting и compositing?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "Что такое History API в браузере?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "Что такое веб-хранилище (web storage)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "Разница между cookie, sessionStorage и localStorage?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "Способы уменьшения времени загрузки веб-страницы?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "Что такое Core Web Vitals? Какие основные метрики сюда входят?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "Расскажите о метриках Core Web Vitals?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "Разница между preload, prefetch, preconnect и prerender?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "Для чего нужен шаблон PRPL?",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "web-api": [
+        {
+            "id": 1,
+            "text": "Что такое HTTP?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "Из чего состоит HTTP - запрос?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "Какие методы может иметь HTTP - запрос?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "Что такое HTTP cookie? Для чего они используются?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "Разница между HTTP и HTTPS?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "Разница между HTTP/1 и HTTP/2?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "Как работает мультиплексирование в HTTP/2?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "Что такое «трехстороннее рукопожатие» (Triple handshake)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "Разница между PUT - и POST - запросами?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "Разница между протоколами TCP и UDP?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "Что такое WebSocket? В чем принцип его работы?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "Разница между Long-Polling, Websockets и Server-Sent Events?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "Как работает JSONP?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "Что такое IndexedDB в браузере? Преимущества IndexedDB?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "Что такое Service Workers?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "Что такое Web Workers?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "Что такое Web Worklet?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "Что такое SSL/TLS? Зачем они используются в веб-разработке?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "Механизм установки сеанса между клиентом и сервером?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "Что такое API?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "Что такое CDN?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "Что такое IP - адрес?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "Разница между host и domain?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "Разница между URI и URL?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "Почему очистить кэш важно? Как это можно сделать?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "Разница между идентификацией, аутентификацией и авторизацией?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "Виды аутентификации?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "Что такое безопасные (Secure) и HttpOnly cookies?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "Что такое Content Security Policy (CSP)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "Что такое CORS?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "Что такое межсайтовый скриптинг(XSS)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "Методы повышения безопасности веб - приложений?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": "Что такое OWASP Top-10?"
+        }
+    ],
+    "ооп и фп": [
+        {
+            "id": 1,
+            "text": "Основные принципы ООП?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "Что такое SOLID?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "Разница между классовым и прототипным наследованием?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "Что такое функциональное программирование?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "Что такое MVC?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "Что такое MVVM?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "Что такое MVP?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "Недостатки паттерна MVW?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "Разница между функцией и методом?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "Что такое каррирование(Currying)?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "Разница между ООП и ФП в JavaScript?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "Плюсы и минусы ФП и ООП?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "Разница между монолитной и микросервисной архитектурами?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "Плюсы и минусы монолитной и микросервисной архитектур?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "Какие принципы можно использовать вместе с наследованием?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "Какие ещё принципы кроме SOLID вы знаете?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "Что такое дескрипторы свойств объектов?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "'В чем заключаются особенности геттеров и сеттеров?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "Что такое статический метод класса(static)? Как осуществляется его вызов?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "Разница между композицией и наследованием?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "Что такое композиция в контексте JavaScript?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "Что такое паттерн или шаблон проектирования?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "Типы паттернов?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "Что такое GOF паттерны?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "Что такое GRASP паттерны?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "Типы полиморфизма?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "Можно ли в JavaScript реализовать абстрактный класс и как это сделать?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "Как работает механизм прототипов в JavaScript?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "Основные принципы функционального программирования?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "Плюсы функционального программирования?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "Разница между императивным и декларативным подходами программирования?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "Что такое реактивное программирование?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "Плюсы и минусы реактивного программирования?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 35,
+            "text": "Что такое Inversion of control?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 36,
+            "text": "Что такое Dependency injection?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 37,
+            "text": "Разница между агрегацией и композицией?",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 38,
+            "text": "Разница между процедурным и функциональным программированием?",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "html": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 35,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 36,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 37,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 38,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 39,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 40,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 41,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 42,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 43,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 44,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 45,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 46,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 47,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 48,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 49,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 50,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 51,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 52,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 53,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 54,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 55,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 56,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 57,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 58,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 59,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 60,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 61,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 62,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "css": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 35,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 36,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 37,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 38,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 39,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 40,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 41,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 42,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 43,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 44,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 45,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 46,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 47,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 48,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 49,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 50,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "javascript": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 35,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 36,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 37,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 38,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 39,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 40,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 41,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 42,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 43,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 44,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 45,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 46,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 47,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 48,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 49,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 50,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 51,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 52,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 53,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 54,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 55,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 56,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 57,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 58,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 59,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 60,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 61,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 62,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 63,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 64,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 65,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 66,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 67,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 68,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 69,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 70,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 71,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 72,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 73,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 74,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 75,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 76,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 77,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 78,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 79,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 80,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 81,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 82,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 83,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 84,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 85,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 86,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "js in browser": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "async js": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "ecmascript": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "accessibility": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "typescript": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "react": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 21,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 29,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 33,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 34,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 35,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 36,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 37,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 38,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 39,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 40,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 41,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 42,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 43,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 44,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 45,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 46,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 47,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 48,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 49,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 50,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 51,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 52,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 53,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 54,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 55,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 56,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 57,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 58,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 59,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 60,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 61,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 62,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 63,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 64,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "state management": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "node.js": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 16,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "testing": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "tools": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ],
+    "softskills": [
+        {
+            "id": 1,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 5,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 7,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 8,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 9,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 10,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 11,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 12,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "text": "",
+            "hasOptions": false,
+            "answer": ""
+        }
+    ]
+}
