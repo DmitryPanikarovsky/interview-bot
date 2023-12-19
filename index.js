@@ -92,8 +92,6 @@ bot.on('callback_query:data', async (ctx) => {
 });
 
 bot.catch((err) => {
-    // const ctx = err.context;
-    // console.error(`Error while handling update ${ctx.update.update_id}:`);
     const e = err.error;
     if (e instanceof GrammyError) {
         console.error("Error in request:", e.description);

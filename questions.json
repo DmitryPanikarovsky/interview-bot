@@ -590,373 +590,373 @@
     "html": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое HTML и для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое HTML-элемент? Какова его структура?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое атрибуты в HTML? Как они используются в элементах?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Какие глобальные атрибуты есть в HTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Что такое категории контента в HTML5?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Какие категории считаются основными категориями контента?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое doctype? И для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Опишите базовую структуру HTML-страницы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Что такое валидация? И какие типы проверок HTML документа вы знаете?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Основные этапы проверок валидности HTML-документа?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Если представить HTML5 как открытую веб-платформу, из каких блоков он состоит?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Какой тэг использовать для того, что бы сверстать кнопку?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое инлайновый стиль? Можно ли его переопределить?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Есть ли у HTML элементов свои дефолтные специфичные стили?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Что такое семантика? Какие семантичные тэги вы знаете?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Как семантически правильно сверстать картинку с подписью?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Типы списков в HTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Для какого тэга используется атрибут alt и зачем он нужен?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Какая разница между тэгами <strong><em> и <b><i>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Типы <input> элементов в HTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Для чего используют data-атрибуты?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Разница между <script>, <script async> и <script defer>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Для чего используется элемент <datalist>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Почему хорошей практикой считается располагать <link> для подключения CSS стилей внутри тэга <head>, а <script> для подключения JS ставить перед закрывающимся тэгом </body>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Что такое мета-тэги?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Что описывается в тэге <head>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Для чего используются тэги <tr>, <th>, <td>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Расскажите о meta-теге с name='viewport'?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Что такое элемент <canvas>? И для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Что такое <svg> и <canvas>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "Разница между <canvas> и <svg>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "В каких случаях лучше использовать <canvas>s, а в каких <svg>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 33,
-            "text": "",
+            "text": "Плюсы и минусы <canvas> и <svg>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 34,
-            "text": "",
+            "text": "Для чего нужен атрибут autocomplete?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 35,
-            "text": "",
+            "text": "Что такое элемент <output> в HTML5?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 36,
-            "text": "",
+            "text": "Что такое свойство valueAsNumber?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 37,
-            "text": "",
+            "text": "Что такое атрибут target? Какие значения он принимает?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 38,
-            "text": "",
+            "text": "Что такое ApplicationCache в HTML5?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 39,
-            "text": "",
+            "text": "Для чего используется элемент <picture>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 40,
-            "text": "",
+            "text": "Что такое srcset? Как работает srcset?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 41,
-            "text": "",
+            "text": "Как семантически верно сверстать навигационное меню?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 42,
-            "text": "",
+            "text": "Что такое <iframe>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 43,
-            "text": "",
+            "text": "Для чего используются тэги <sub> и <sup>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 44,
-            "text": "",
+            "text": "Как можно скрыть элемент разметки не используя CSS и JS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 45,
-            "text": "",
+            "text": "Разница между <meter> и <progress>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 46,
-            "text": "",
+            "text": "Как можно сгруппировать опции внутри тэга <select>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 47,
-            "text": "",
+            "text": "Как можно изменить форму картинки или HTML элемента?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 48,
-            "text": "",
+            "text": "Чем отличается <article> от <section>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 49,
-            "text": "",
+            "text": "Расскажите об особенностях стилизации <svg>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 50,
-            "text": "",
+            "text": "Разница между кнопкой и ссылкой в HTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 51,
-            "text": "",
+            "text": "Для чего используется атрибут decoding?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 52,
-            "text": "",
+            "text": "Для чего используется атрибут enterkeyhint?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 53,
-            "text": "",
+            "text": "Для чего используют атрибут novalidate?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 54,
-            "text": "",
+            "text": "Для чего используют атрибут inputmode?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 55,
-            "text": "",
+            "text": "Для чего используется атрибут pattern?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 56,
-            "text": "",
+            "text": "Почему стоит использовать семантические теги в верстке?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 57,
-            "text": "",
+            "text": "Для чего используется тэг <label>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 58,
-            "text": "",
+            "text": "Способы улучшения производительности веб-страницы при использовании HTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 59,
-            "text": "",
+            "text": "Основные атрибуты HTML-форм? Как они влияют на отправку данных с веб-страницы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 60,
-            "text": "",
+            "text": "Какие HTML-элементы используются для создания и форматирования таблиц? Какие атрибуты у них есть?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 61,
-            "text": "",
+            "text": "Расскажите о тэге <samp>?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 62,
-            "text": "",
+            "text": "Для чего используется атрибут capture?",
             "hasOptions": false,
             "answer": ""
         }
@@ -964,301 +964,301 @@
     "css": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое CSS? И для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое CSS-правило?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Варианты добавление CSS стилей на страницу?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Типы позиционирования в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Блочная модель CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое селектор? И какие селекторы существуют?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое специфичность селектора? Как считать вес селектора?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Разница между Reset.css и Normalize.css?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Разница между margin и padding?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Разница между display: none и visibility: hidden?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Разница между блочным и строчным (инлайновым) элементами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Разница между классом и идентификатором в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое CSS спрайт? И для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Что такое вендорные префиксы? И для чего они используются?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Что такое псевдоэлементы? И для чего они используются?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Что такое схлопывание границ (margin collapsing)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Что такое CSS препроцессор?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Что такое z-index? Как формируется контекст наложения?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Порядок наложения элементов в CSS (Stacking Order)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Как с помощью CSS определить, поддерживается ли свойство в браузере?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Как поддерживать страницы в браузерах с ограниченными функциями?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Как исправлять специфичные проблемы со стилями для разных браузеров?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Глобальные ключевые слова в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Что такое CSS-атрибут (attr)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Что такое перечисление селекторов?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Для чего используется ключевое слово currentColor в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Какие псевдоклассы были добавлены в CSS3?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Какие фильтры есть в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Для чего используется псевдокласс :invalid?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Расскажите про свойство display в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "В каком случае лучше использовать translate() вместо абсолютного позиционирования?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "Что такое плавающие элементы (floats)? Как они работают?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 33,
-            "text": "",
+            "text": "Расскажите о свойстве text-rendering?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 34,
-            "text": "",
+            "text": "Расскажите о свойстве text-decoration-skip-ink?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 35,
-            "text": "",
+            "text": "Расскажите о свойстве pointer-events?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 36,
-            "text": "",
+            "text": "Расскажите о свойстве outline?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 37,
-            "text": "",
+            "text": "Расскажите о свойстве scrollbar-gutter?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 38,
-            "text": "",
+            "text": "Почему не стоит использовать краткую запись свойств CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 39,
-            "text": "",
+            "text": "Назовите псевдоэлементы для подсветки текста?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 40,
-            "text": "",
+            "text": "Способы задания цвета в CSS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 41,
-            "text": "",
+            "text": "Какие CSS-свойства используются для создания анимаций и плавных переходов?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 42,
-            "text": "",
+            "text": "Принципы и подходы для обеспечения масштабируемости и поддерживаемости CSS-кода?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 43,
-            "text": "",
+            "text": "Плюсы и минусы методологии БЭМ?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 44,
-            "text": "",
+            "text": "Какие CSS-препроцессоры вы знаете? Преимущества их использования?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 45,
-            "text": "",
+            "text": "Какое CSS-свойство используется для изменения порядка отображения элементов на веб-странице без изменения их физического расположения в HTML-коде?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 46,
-            "text": "",
+            "text": "Разница между псевдоклассами и псевдоэлементами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 47,
-            "text": "",
+            "text": "Как создавать и поддерживать единый стиль CSS на больших проектах?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 48,
-            "text": "",
+            "text": "Что такое 'контейнерные запросы' (container queries)? Как они отличаются от медиазапросов (media queries)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 49,
-            "text": "",
+            "text": "Расскажите о псевдоклассе :has()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 50,
-            "text": "",
+            "text": "Расскажите о медиафункции prefers-reduced-motion?",
             "hasOptions": false,
             "answer": ""
         }
@@ -1266,517 +1266,517 @@
     "javascript": [
         {
             "id": 1,
-            "text": "",
+            "text": "Типы данных в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Разница между == и === (нестрогое/строгое равенство)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое Strict mode в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Разница между function declaration и function expression?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Разница между null и undefined?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Типы таймеров в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое поднятие (Hoisting)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Что такое область видимости (Scope)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Разница между var, let и const?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое замыкание (Closure)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что обозначает this в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое функции высшего порядка (Higher Order Functions)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Как превратить любой тип данных в булевый? Перечислите ложные значения в JS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Методы строк в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Методы массивов в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Что такое чистая функция?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Разница между .forEach() и .map()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Разница между .call(), .apply() и bind()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Почему в JS функции называют объектами первого класса?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Как определить наличие свойства в объекте?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Что такое IIFE?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Что такое псевдомассив arguments?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Разница между host-объектами и нативными объектами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Почему результат сравнения 2х объектов это false?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Что такое прототипное наследование? Как создать объект без прототипа?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Почему расширение нативных JavaScript-объектов это плохая практика?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Что такое NaN? Как определить, что значение равно NaN?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Что такое объектная обертка (Wrapper Objects)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Как в JavaScript создать объект?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Для чего используется ключевое слово new?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "Операторы «И» и «ИЛИ» (&& и ||)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "Для чего используется оператор двойного отрицания (!!)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 33,
-            "text": "",
+            "text": "Для чего используется оператор остатка (%)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 34,
-            "text": "",
+            "text": "Как проверить, является ли значение массивом?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 35,
-            "text": "",
+            "text": "Как работает boxing/unboxing в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 36,
-            "text": "",
+            "text": "Что такое мемоизация? Реализуйте базовую логику функции для мемоизации?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 37,
-            "text": "",
+            "text": "Разница между оператором in и методом .hasOwnProperty()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 38,
-            "text": "",
+            "text": "Разница между глубокой (deep) и поверхностной (shallow) копиями объекта? Как сделать каждую из них?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 39,
-            "text": "",
+            "text": "Что такое цепочка вызовов функций (chaining)? Как реализовать такой подход?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 40,
-            "text": "",
+            "text": "Что такое необъявленная переменная?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 41,
-            "text": "",
+            "text": "Как передаются параметры в функцию: по ссылке или по значению?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 42,
-            "text": "",
+            "text": "Что такое прототип объекта в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 43,
-            "text": "",
+            "text": "Как работает метод Object.create()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 44,
-            "text": "",
+            "text": "Разниц между Object.freeze() и Object.seal()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 45,
-            "text": "",
+            "text": "Разница между методами .slice() и .splice()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 46,
-            "text": "",
+            "text": "Как работают методы .find(), .findIndex() и .indexOf()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 47,
-            "text": "",
+            "text": "Плюсы и минусы использования use strict?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 48,
-            "text": "",
+            "text": "Разница между методами .push(), .pop(), .shift() и .unshift()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 49,
-            "text": "",
+            "text": "Плюсы и минусы иммутабельности? Как достичь иммутабельности в JS?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 50,
-            "text": "",
+            "text": "Типы всплывающих окон в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 51,
-            "text": "",
+            "text": "Типы объектов JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 52,
-            "text": "",
+            "text": "Парадигмы программирования в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 53,
-            "text": "",
+            "text": "Типы ошибок в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 54,
-            "text": "",
+            "text": "Разница между typeof и instanceof?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 55,
-            "text": "",
+            "text": "JavaScript статически, или динамически типизированный язык?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 56,
-            "text": "",
+            "text": "Что такое регулярное выражение (Regular Expression)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 57,
-            "text": "",
+            "text": "Что такое рекурсия?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 58,
-            "text": "",
+            "text": "Что такое прототип (Prototype) объекта?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 59,
-            "text": "",
+            "text": "Какие методы используются в регулярных выражениях?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 60,
-            "text": "",
+            "text": "Что такое полифил (polyfill)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 61,
-            "text": "",
+            "text": "Что такое switch/case? Правила использования switch/case?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 62,
-            "text": "",
+            "text": "Типы функций по способности принимать другие функции?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 63,
-            "text": "",
+            "text": "Что такое выражения (expression) и инструкции (statement) в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 64,
-            "text": "",
+            "text": "Разница между .some() и .every()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 65,
-            "text": "",
+            "text": "Как сгенерировать случайное число в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 66,
-            "text": "",
+            "text": "Типы операторов в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 67,
-            "text": "",
+            "text": "Разница между параметром и аргументом функции?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 68,
-            "text": "",
+            "text": "Правила задания имён для переменных и функций в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 69,
-            "text": "",
+            "text": "Разница между явным и неявным преобразованием (Implicit and Explicit Coercion)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 70,
-            "text": "",
+            "text": "Для чего применяется метод Array.from()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 71,
-            "text": "",
+            "text": "Назовите способы преобразования массива в объект?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 72,
-            "text": "",
+            "text": "Разница между Object и Map?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 73,
-            "text": "",
+            "text": "Что такое каррирование?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 74,
-            "text": "",
+            "text": "Для чего используются метод Object.seal()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 75,
-            "text": "",
+            "text": "Для чего используется свойство .dataset?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 76,
-            "text": "",
+            "text": "Каким образом можно обмениваться кодом между файлами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 77,
-            "text": "",
+            "text": "Как работает «сборщик мусора» в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 78,
-            "text": "",
+            "text": "Что такое утечки памяти?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 79,
-            "text": "",
+            "text": "Назовите основные типы утечек памяти в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 80,
-            "text": "",
+            "text": "Как работает контекст выполнения (execution context) в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 81,
-            "text": "",
+            "text": "Разница между примитивом и объектом?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 82,
-            "text": "",
+            "text": "Что значит текст max call stack size exceeded в консоли?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 83,
-            "text": "",
+            "text": "Как реализовать отложенную загрузку изображений?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 84,
-            "text": "",
+            "text": "Чем отличаются события input и change?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 85,
-            "text": "",
+            "text": "Почему typeof null возвращает object?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 86,
-            "text": "",
+            "text": "Зачем нужен конструктор Proxy?",
             "hasOptions": false,
             "answer": ""
         }
@@ -1784,193 +1784,193 @@
     "js in browser": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое DOM?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Типы узлов DOM-дерева?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Методы поиска элементов в DOM?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Свойства для перемещения по DOM-дереву?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Разница между attribute и property у DOM-элементов?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое BOM?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Виды событий в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Как добавить обработчик события на DOM-элемент?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Как удалить обработчик события с DOM-элемента?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое распространение события (Event Propagation)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что такое делегирование событий (Event Delegation)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Как использовать media выражения в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Расскажите про координаты в браузере?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Разница между HTMLCollection и NodeList?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Как динамически добавить элемент на HTML-страницу?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Разница между feature detection, feature inference и анализом строки user-agent?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Разница между e.preventDefault() и e.stopPropagation()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Разница между event.target и event.currentTarget?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Разница между .stopPropagation() и .stopImmediatePropagation()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Разница между событиями load и DOMContentLoaded?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Сколько аргументов принимает addEventListener?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Разница между innerHTML и outerHTML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Разница между JSON и XML?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Как узнать об использовании метода event.preventDefault()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Для чего используется свойство window.navigator?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Для чего используется метод .focus()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Для чего используется свойство .forms?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Для чего используется метод .scrollIntoView()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Разница между методами .submit() и .requestSubmit()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Расскажите о IntersectionObserver?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "Расскажите о URLSearchParams?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "Какие есть ограничения у window.close()?",
             "hasOptions": false,
             "answer": ""
         }
@@ -1978,109 +1978,109 @@
     "async js": [
         {
             "id": 1,
-            "text": "",
+            "text": "Разница между синхронными и асинхронными функциями?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое AJAX?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое same-origin policy в контексте JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Что такое цикл событий (event loop) и как он работает?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Разница между микро и макрозадачами в event loop?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Расскажите о queueMicrotask?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое промисы (Promises)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Плюсы и минусы использовании Ajax?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Подходы при работе с асинхронным кодом?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Преимущества использовании промисов вместо колбэков?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что такое callback-функция? Что такое Callback Hell?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое async/await?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Разница между Promise.all(), Promise.any() и Promise.race()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Расскажите про статический метод .allSettled()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Плюсы и минусы асинхронного программирования в JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Проблемы при использовании callback-функций?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Как выполнить несколько асинхронных операций последовательно?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Какие проблемы может вызвать неправильное использование асинхронности в JavaScript?",
             "hasOptions": false,
             "answer": ""
         }
@@ -2088,205 +2088,205 @@
     "ecmascript": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое ECMAScript? В чём отличие от JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Разница между let, const и var?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Можно ли изменить значение определённое через const?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Что такое временная мёртвая зона (temporal dead zone)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Разница между Rest и Spread операторами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое деструктуризация?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Для чего используется цикл for…of?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Что такое шаблонные литералы (Template Literals)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Что такое Set, Map, WeakMap и WeakSet?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Разница между обычными функциями и стрелочными?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Разница между методом Object.freeze() и const?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое итераторы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое генераторы? Когда стоит использовать генераторы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Что такое ES6 модули?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Что такое символ (Symbol) в ES6?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Для чего используется метод .includes()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Для чего используется метод .getOwnPropertyDescriptors()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Расскажите о методах .keys(), .values(), .entries()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Для чего используется метод .fromEntries()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Для чего используются методы .flat() и .flatMap()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Для чего используются методы .padStart() и .padEnd()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Для чего используются методы .startsWith() и .endsWith()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Как в JavaScript удалять пробельные символы в начале и в конце строки?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Расскажите об операторе Optional Chaining (?.)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Для чего используется метод .replaceAll()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Что такое оператор логического присваивания?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Как увеличить читаемость больших чисел?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Что такое приватные аксессоры?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Разница между ES6-классами и конструкторами функций?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Что такое оператор нулевого слияния (??)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "В чём отличие оператора нулевого слияния (??) и оператора “ИЛИ” (||)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "Назовите основные методы и свойства работы с коллекцией Map?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 33,
-            "text": "",
+            "text": "Назовите основные методы и свойства работы с коллекцией Set?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 34,
-            "text": "",
+            "text": "Как осуществить перебор элементов в коллекциях Map и Set?",
             "hasOptions": false,
             "answer": ""
         }
@@ -2294,97 +2294,97 @@
     "accessibility": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое WCAG?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Основные принципы доступности?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое скринридер?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Уровни доступности?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Как скрыть содержимое тэга от скринридеров?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Как удалить семантику у элемента?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое ARIA роли в веб приложении?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Для чего используется атрибут aria-roledescription?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Какие HTML атрибуты можно использовать для улучшения доступности?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Назовите средства и методы тестирования доступности?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Какие стандарты доступности следует учитывать при разработке?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Разница между usability и accessibility?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что нужно учитывать при разработке доступного сайта?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Как структура заголовков (H1-H6) влияет на доступность? Как правильно их использовать для улучшения навигации и доступности контента?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Какие правила следует соблюдать при работе с цветом для обеспечения лучшей доступности?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Какие рекомендации существуют для работы с мультимедиа-контентом для обеспечения лучшей доступности?",
             "hasOptions": false,
             "answer": ""
         }
@@ -2392,169 +2392,169 @@
     "typescript": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Основные компоненты TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Назовите особенности TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Плюсы использования TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Минусы использования TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Типы в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое декораторы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Поддерживает ли TypeScript перегрузку функций?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Разница между типом (type) и интерфейсом (interface)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое JSX в TypeScript? Какие режимы JSX поддерживает TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что такое директивы с тремя наклонными чертами (Triple-Slash Directives), их типы?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое внешние объявления переменных (ambient declaration) в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Разница между абстрактным классом (abstract class) и интерфейсом (interface)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Какие элементы ООП поддерживаются в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Модификаторы доступа в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Разница между внутренним (Internal Module) и внешним модулями (External Module)?            ",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Что такое декораторы в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Как TypeScript поддерживает необязательные и дефолтные параметры в функции?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Что такое перечисление (enum)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Для чего в TypeScript используется NoImplicitAny?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Разница между типами “Объединение” (|) и “Пересечение” (&)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Что такое общие типы (generic) в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Какие области видимости доступны в TypeScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Что такое .map файл, как и зачем его использовать?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Можно ли использовать TypeScript в серверной разработке?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Для чего в TypeScript используют ключевое слово declare?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Разница между типами void, never и unknown?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Как вы отлавливаете ошибки в TypeScript коде?",
             "hasOptions": false,
             "answer": ""
         }
@@ -2562,385 +2562,385 @@
     "react": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Перечислите особенности React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое Virtual DOM? Как он работает с React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Для чего нужен атрибут key при рендере списков?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Что такое PureComponent?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое Компонент высшего порядка (Higher-Order Component/HOC)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Методы жизненного цикла компонента в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Стадии жизненного цикла компонента в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое React Reconciliation?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что такое портал (Portal)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое контекст (Context)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое React хуки (Hooks)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Что Такое JSX?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Разница между состоянием(state) и пропсами(props)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Что такое React Fiber?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Что такое фрагмент (Fragment)? Почему фрагмент лучше, чем div?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Что такое синтетические события в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 19,
-            "text": "",
+            "text": "Что такое React-ссылка (ref)? Как создать ссылку?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 20,
-            "text": "",
+            "text": "Разница между теневым (Shadow) и виртуальным (Virtual) DOM?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 21,
-            "text": "",
+            "text": "Назовите преимущества использования React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 22,
-            "text": "",
+            "text": "Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 23,
-            "text": "",
+            "text": "Что такое компонент-переключатель (Switching Component)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 24,
-            "text": "",
+            "text": "Разница между React и ReactDOM?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 25,
-            "text": "",
+            "text": "Разница между компонентом и контейнером?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 26,
-            "text": "",
+            "text": "Как React обрабатывает, или ограничивает использование пропсов определенного типа?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 27,
-            "text": "",
+            "text": "Что такое строгий режим в React? Его преимущества?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 28,
-            "text": "",
+            "text": "Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 29,
-            "text": "",
+            "text": "Что такое «опрос» (Polling)? Как его реализовать в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 30,
-            "text": "",
+            "text": "Разница между элементом и компонентом?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 31,
-            "text": "",
+            "text": "Что такое ReactDOMServer?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 32,
-            "text": "",
+            "text": "Что такое предохранители (Error Boundaries)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 33,
-            "text": "",
+            "text": "Что такое «ленивая» (Lazy) функция?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 34,
-            "text": "",
+            "text": "Разница между рендерингом и монтированием?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 35,
-            "text": "",
+            "text": "Что такое сhildren?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 36,
-            "text": "",
+            "text": "Что такое события указателя (Pointer Events)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 37,
-            "text": "",
+            "text": "Что такое инверсия наследования (Inheritance Inversion)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 38,
-            "text": "",
+            "text": "Как в React реализовать двустороннее связывание данных?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 39,
-            "text": "",
+            "text": "Разница между классовым и функциональным компонентами?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 40,
-            "text": "",
+            "text": "Разница между useEffect() и componentDidMount()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 41,
-            "text": "",
+            "text": "Преимущества хуков?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 42,
-            "text": "",
+            "text": "Недостатки хуков?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 43,
-            "text": "",
+            "text": "Правила (ограничения) использования хуков?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 44,
-            "text": "",
+            "text": "Что такое поднятие состояния вверх (Lifting State Up)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 45,
-            "text": "",
+            "text": "Что делает метод shouldComponentUpdate?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 46,
-            "text": "",
+            "text": "Разница между createElement() и cloneElement()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 47,
-            "text": "",
+            "text": "Что такое useReducer()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 48,
-            "text": "",
+            "text": "Как реализовать однократное выполнение операции при начальном рендеринге?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 49,
-            "text": "",
+            "text": "Что такое распределенный компонент?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 50,
-            "text": "",
+            "text": "Расскажите о хуках useCallback(), useMemo(), useImperativeHandle(), useLayoutEffect()?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 51,
-            "text": "",
+            "text": "Как отрендерить HTML код в React-компоненте?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 52,
-            "text": "",
+            "text": "Зачем в setState() нужно передавать функцию?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 53,
-            "text": "",
+            "text": "Для чего предназначен метод registerServiceWorker() в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 54,
-            "text": "",
+            "text": "Чем React Router отличается от обычной маршрутизации?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 55,
-            "text": "",
+            "text": "Какие хуки были добавлены в React Router версии 5?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 56,
-            "text": "",
+            "text": "Как передавать пропсы в React Router?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 57,
-            "text": "",
+            "text": "Что такое Reselect и как он работает?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 58,
-            "text": "",
+            "text": "Назовите основную цель React Fiber?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 59,
-            "text": "",
+            "text": "Какие типы данных может возвращать render?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 60,
-            "text": "",
+            "text": "Разница между memo и useMemo?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 61,
-            "text": "",
+            "text": "Что такое синтетические события (SyntheticEvent) в React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 62,
-            "text": "",
+            "text": "Является ли React реактивным?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 63,
-            "text": "",
+            "text": "Техники оптимизации перфоманса React?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 64,
-            "text": "",
+            "text": "Лучшие практики безопасности в React?",
             "hasOptions": false,
             "answer": ""
         }
@@ -2948,55 +2948,55 @@
     "state management": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое Flux?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое Redux? Ключевые принципы Redux?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Разница между Redux и Flux?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Ключевые концепции Redux?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Что такое «единственный источник истины» (Single Source of Truth)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое редьюсер (Reducer)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Разница между React State и Redux State?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Как выглядит поток данных в Redux-приложении?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Плюсы и минусы Redux?",
             "hasOptions": false,
             "answer": ""
         }
@@ -3004,109 +3004,109 @@
     "node.js": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Разница между Node.js и JavaScript?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Когда следует использовать Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Плюсы Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Что такое цикл событий (event loop)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Разница между асинхронной и неблокирующей функциями?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Преимущества однопоточного веб-сервера по сравнению с многопоточным?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Что такое поток (stream)? Типы потоков в Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Разница между createReadStream и readFile?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое REPL в Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Что такое Continuation-passing Style (CPS)?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Как избежать Callback Hell?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое модуль Cluster?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 14,
-            "text": "",
+            "text": "Почему использование блокирующих, или синхронных операций является плохой практикой в Node.js?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 15,
-            "text": "",
+            "text": "Что такое npm?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 16,
-            "text": "",
+            "text": "Разница между module.exports и exports?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 17,
-            "text": "",
+            "text": "Почему в модулях переменные верхнего уровня не являются глобальными?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 18,
-            "text": "",
+            "text": "Что такое циклические зависимости модулей в Node?",
             "hasOptions": false,
             "answer": ""
         }
@@ -3114,79 +3114,79 @@
     "testing": [
         {
             "id": 1,
-            "text": "",
+            "text": "Какие бывают виды тестирования?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое Fake в unit тестировании?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое Stub в unit тестировании?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Что такое Mock в unit тестировании?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Разница между Mock и Stub?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое White/Black/Grey Box-тестирование?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое Quality Gates?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Разница между TDD и BDD?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Что такое UI-тестирование? Назовите подходы UI-тестирования",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Как можно оценить качество тестирования?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Какие инструменты тестирования вы знаете?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Что такое Testing Trophy?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Что такое принцип FIRST в тестировании?",
             "hasOptions": false,
             "answer": ""
         }
@@ -3194,61 +3194,61 @@
     "tools": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое Babel? Для чего он используется?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое tree shaking? Для чего используется tree shaking?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое stylelint? Назовите особенности stylelint?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Что такое статический анализ кода?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Что такое Git CLI?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Как работает Webpack? Какие основные концепции в нем существуют?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Какие основные задачи выполняет Webpack при сборке проекта?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Что такое бандл (bundle)? Как он используется во Frontend разработке?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Какие проблемы могут возникнуть при работе с Git?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Что такое пулреквест и как его сделать на GitHub?",
             "hasOptions": false,
             "answer": ""
         }
@@ -3256,79 +3256,79 @@
     "softskills": [
         {
             "id": 1,
-            "text": "",
+            "text": "Что такое SDLC?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 2,
-            "text": "",
+            "text": "Что такое Agile?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 3,
-            "text": "",
+            "text": "Что такое код ревью? Почему оно важно?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 4,
-            "text": "",
+            "text": "Что такое CI/CD?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 5,
-            "text": "",
+            "text": "Плюсы CI/CD?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 6,
-            "text": "",
+            "text": "Что такое технический долг?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 7,
-            "text": "",
+            "text": "Что такое функциональные и нефункциональные требования?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 8,
-            "text": "",
+            "text": "Разница между POC, Prototype и MVP?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 9,
-            "text": "",
+            "text": "Разница между DoD и DoR?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 10,
-            "text": "",
+            "text": "Почему критерии DoD и DoR важны для проекта?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 11,
-            "text": "",
+            "text": "Кто такой стейкхолдер (stakeholder)? Расскажите о матрице RACI?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 12,
-            "text": "",
+            "text": "Разница между менторингом и коучингом?",
             "hasOptions": false,
             "answer": ""
         },
         {
             "id": 13,
-            "text": "",
+            "text": "Опишите суть методологии GitFlow?",
             "hasOptions": false,
             "answer": ""
         }
